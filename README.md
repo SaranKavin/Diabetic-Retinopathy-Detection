@@ -1,8 +1,3 @@
-# Diabetic-Retinopathy-Detection
-Here is a complete `README.md` file you can use for your **Diabetic Retinopathy Detection Web Application**:
-
----
-
 # Diabetic Retinopathy Detection - Web Application
 
 This web application allows users to upload retinal images and detect the stage of Diabetic Retinopathy (DR) using a deep learning model built with TensorFlow/Keras.
